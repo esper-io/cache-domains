@@ -1,5 +1,7 @@
 *.esper.cloud
+*.amazonaws.com
 develop-streamer.esper.io
+shoonya-dpc.s3.ap-south-1.amazonaws.com
 hingedpc.s3.us-west-2.amazonaws.com
 testotaapp.s3.us-east-2.amazonaws.com
 scapi-bigbasket-static-and-media-files.s3.amazonaws.com

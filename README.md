@@ -24,8 +24,8 @@ There is a cache_domains.json file to define CDNs and additional metadata with t
     "cache_domains": [
         {
             "name": "Esper",
-			         "description": "CDN for Esper device provisioning",
-			         "domain_files": ["esper.txt"]
+	    "description": "CDN for Esper device provisioning",
+	    "domain_files": ["esper.txt"]
         }
     ]
 }

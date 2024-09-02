@@ -1,4 +1,4 @@
-# Game Content Cache Hostnames
+# Esper Local Cache Hostnames
 
 ## Introduction
 
@@ -23,9 +23,9 @@ There is a cache_domains.json file to define CDNs and additional metadata with t
 {
     "cache_domains": [
         {
-            "name": "steam",
-            "description": "CDN for steam platform",
-            "domain_files": ["steam.txt"]
+            "name": "Esper",
+			         "description": "CDN for Esper device provisioning",
+			         "domain_files": ["esper.txt"]
         }
     ]
 }
